@@ -2,13 +2,13 @@
 
 🗓️ Date completed: Sept 3, 2025
 
-⚙️ Tools used: 
+⚙️ Tools used:  
 -'dirb'  
 -'command line'
 
-🧠 Skills gained:
--Directory enumeration
--Terminal navigation
+🧠 Skills gained:  
+-Directory enumeration  
+-Terminal navigation  
 -Offensive security mindset
 
 🗒️ Notes:
