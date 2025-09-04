@@ -11,7 +11,9 @@
 -Terminal navigation  
 -Offensive security mindset
 
-🗒️ Notes:
-This was my first room! I didn't even know what a virtual machine was at first, but I figured it out and finished the room using the terminal. 
+🗒️ Notes:  
+-This was my first room!  
+-I didn't even know what a virtual machine was at first, but I figured it out and finished the room using the terminal. 
 
-📷Screenshots:
+📷Screenshots:  
+![first tryhackme room completed](./images/First-Room-Completed.png)
